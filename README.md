@@ -33,10 +33,15 @@ python src/spam_classifier.py
 python gui/spam_classifier_gui.py
 
 Team Information
+
 This project is developed by a team of three students:
+
 Sumaiya – Project Developer / Machine Learning Implementation
+
 Urooj – Data Handling / Testing & Evaluation
+
 Shahzadi – Documentation / UI Support
+
 Department: Computer Science
 
 Project: SpamGuard AI Email Classifier
