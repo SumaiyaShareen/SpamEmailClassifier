@@ -1,3 +1,4 @@
+<img width="901" height="608" alt="4545" src="https://github.com/user-attachments/assets/864b67db-1369-40e1-9d80-a001d35d640c" />
 SpamGuard AI – Email Spam Classifier
 Project Introduction
 SpamGuard AI is a Machine Learning based Email Spam Classification system that detects whether an email is Spam or Ham (Not Spam). The system uses Natural Language Processing (NLP) techniques and the Naive Bayes algorithm to analyze email text and generate accurate predictions. It also provides spam probability and risk level (LOW, MEDIUM, HIGH) to improve email security.
